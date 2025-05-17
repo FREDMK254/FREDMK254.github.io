@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(/HTML/Portfolio/Images/Untitled\ design\(3\).png);
+    background-image: url(Images/Untitled\ design\(3\).png);
     background-size: cover;
     background-position: center;
 }
@@ -315,7 +315,7 @@ nav .fa-rectangle-xmark, .fa-bars{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(/HTML/Portfolio/Images/Untitled\ design\(3\).png);
+        background-image: url(Images/Untitled\ design\(3\).png);
     }
     .header-text{
         margin-top: 100%;
